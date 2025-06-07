@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hi, I'm Arpan Kumar Mallik
 
 🎯 **Data & Business Analyst** | 🧠 **ML/DL Enthusiast** | 🤖 **GenAI Builder**
