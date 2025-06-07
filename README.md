@@ -1,102 +1,116 @@
-# Arpan Kumar Mallik
+# 👋 Hey, I'm Arpan Kumar Mallik
 
-**Data and Business Analyst | Machine Learning | Deep Learning | Generative AI**
+**📈 Data & Business Analyst | 🤖 ML, DL & GenAI Enthusiast**
 
-I am a results-driven analyst with hands-on experience in data analytics, machine learning, deep learning, and GenAI. My goal is to turn data into smart decisions, build predictive systems, and develop AI-powered tools that address real-world challenges. I bring a cross-functional approach combining technical, analytical, and strategic thinking.
+I specialize in transforming raw data into real-world impact through analytics, predictive modeling, and generative AI. From uncovering customer insights to deploying full-stack ML pipelines, I bring together business intuition and technical expertise to solve complex problems.
 
 ---
 
-## 🔍 About Me
+## 🧑‍💼 About Me
 
-- Final-year B.Tech Computer Science student at KIIT University (CGPA: 8.08)
-- Interned as a Data Science & Analytics Intern at Zidio Development
-- Hands-on experience through diverse, deployed projects in analytics and AI
-- Certified in Google Data Analytics and Business Analytics (CU Boulder)
-- Participant in McKinsey Forward, BCG Brainwars, and multiple leadership programs
-- Strong analytical foundation: statistics, A/B testing, hypothesis testing, and EDA
-- Familiar with product thinking and business consulting from real-world simulations
+- 🎓 Final-year B.Tech CSE @ KIIT University (CGPA: 8.08)  
+- 💼 Data Science & Analytics Intern @ Zidio Development  
+- 🧠 Certified: Google Data Analytics, CU Boulder Business Analytics  
+- 🛠️ Hands-on experience in ML, DL, GenAI, and statistical modeling  
+- 📊 Strong business understanding from analytics case competitions and simulations  
+- 🌐 Participated in McKinsey Forward, Bain & Co. Brainwars, and consulting challenges
 
 ---
 
 ## 💼 Experience
 
 **Zidio Development | Data Science & Analytics Intern**  
-*Jul 2024 – Oct 2024 (Remote)*  
-- Built an LSTM-based sentiment analysis pipeline (98% accuracy) for 10K+ customer feedback entries  
-- Reduced manual tagging effort by 70% using Python automation  
-- Delivered insights that supported retention and experience strategy improvements
+_Jul 2024 – Oct 2024 (Remote)_  
+- 🧾 Developed LSTM model (98% accuracy) for sentiment analysis across 10K+ feedback entries  
+- ⏱️ Automated tagging, reducing manual effort by 70%  
+- 📊 Delivered actionable insights for improving customer retention and experience
 
 ---
 
-## 📊 Projects
+## 📚 Projects
 
-### 1. Data Analytics, ML & DL Projects
+### 🔷 Data Analytics, ML & DL Projects
 
-**Cloud-Based Airline Price Prediction System**  
-*AWS SageMaker, Python, Streamlit*  
-- Built XGBoost model with 94.68% accuracy to predict dynamic airline ticket prices  
-- Identified 14 key variables through statistical testing  
-- Deployed end-to-end pipeline with real-time predictions
+**✈️ Airline Price Prediction**  
+`XGBoost | AWS SageMaker | Streamlit`  
+- 94.68% accurate ML pipeline predicting ticket prices  
+- Deployed real-time model with 24/7 accessibility  
+- Identified 14 key variables via statistical testing  
 
-**Swiggy Order Analytics**  
-*MySQL, Excel*  
-- Analyzed 10K+ orders to discover user behavior and delivery patterns  
-- Identified zones with <75% delivery success; created Excel dashboards for tracking KPIs
+**🛵 Swiggy Order Analytics**  
+`SQL | Excel`  
+- Analyzed 10K+ orders for behavioral & delivery insights  
+- Identified loyal user segments and underperforming zones  
+- Created Excel dashboards with key KPIs  
 
-**Customer Segmentation for Marketing**  
-*K-Means, DBSCAN, Streamlit*  
-- Clustered customer data into 4 segments based on spending and demographics  
-- Deployed insights via an interactive dashboard using Streamlit Cloud
+**🧑‍🤝‍🧑 Customer Segmentation**  
+`K-Means | DBSCAN | Streamlit`  
+- Clustered customers into 4 value groups based on behavior  
+- Selected K-Means using Silhouette Score  
+- Built interactive dashboards with Streamlit  
 
-**Predictive Risk Analysis for Credit Portfolios**  
-*Python, MySQL, Tableau*  
-- Built a Random Forest model (84% test accuracy) to detect credit risk  
-- Visualized customer risk segments using Tableau for better lending decisions
+**💳 Credit Risk Analysis**  
+`Random Forest | MySQL | Tableau`  
+- 84% test accuracy in risk-based loan approval model  
+- Reduced overfitting via hypothesis testing  
+- Visualized key patterns via Tableau dashboards  
 
-**Brain Tumor Detection from MRI**  
-*CNN, TensorFlow, Streamlit*  
-- Achieved 85.8% test accuracy on 6000+ images of brain MRI scans  
-- Applied augmentation and hyperparameter tuning; visualized tumor regions using activation maps
-
----
-
-### 2. Generative AI Projects
-
-**CotBot – GPT-powered Chat Assistant**  
-*OpenAI API, Python, Streamlit*  
-- Built a multi-turn conversational chatbot with context memory  
-- Enabled model switching, typing animations, and reset controls  
-- Deployed with a responsive, user-friendly interface on Streamlit Cloud
-
-**JobFit AI – Resume & JD Compatibility Scanner**  
-*GenAI, NLP, ATS Logic*  
-- Built a tool to score resumes against job descriptions using LLM-based prompts  
-- Delivered actionable feedback for improving job matching success
+**🧠 Brain Tumor Detection**  
+`CNN | TensorFlow | Streamlit`  
+- 85.8% test accuracy in MRI tumor classification  
+- Tuned with data augmentation + hyperparameter search  
+- Visualized tumor regions with activation maps  
 
 ---
 
-## 🧠 Skills
+### 🤖 Generative AI Projects
 
-- **Languages**: Python, SQL, R, C++, C  
-- **Tools**: Tableau, Power BI, MySQL, Excel, BigQuery, AWS SageMaker, GitHub  
-- **ML/DL**: Regression, Classification, Clustering, CNNs, LSTM, NLP  
-- **Analytics**: EDA, Hypothesis Testing, A/B Testing, Predictive Modeling  
-- **Business**: Strategy Consulting, Financial Modeling, Market Research  
-- **Soft Skills**: Leadership, Communication, Teamwork, Problem Solving
+**💬 CotBot – LLM-Powered Chat Assistant**  
+`OpenAI API | Python | Streamlit`  
+- Built context-aware chatbot with multi-turn memory  
+- Features model switching, reset logic & animations  
+- Deployed on Streamlit with polished UI  
+
+**📄 JobFit AI – Resume & JD Compatibility Scanner**  
+`GenAI | NLP | ATS Logic`  
+- AI tool to evaluate and score resumes against job descriptions  
+- Provides tailored feedback to boost hiring match potential  
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Python, SQL, R, C++, C  
+**Tools & Platforms:** Tableau, Power BI, MySQL, Excel, BigQuery, GitHub, AWS SageMaker  
+**Tech Stack:** XGBoost, Random Forest, CNNs, LSTM, K-Means, DBSCAN, Streamlit, TensorFlow, OpenAI API  
+**Analytics:** EDA, Hypothesis Testing, Predictive Modeling, A/B Testing  
+**Business:** Strategy Consulting, Financial Modeling, Market Research  
+**Soft Skills:** Communication, Teamwork, Problem Solving, Leadership
 
 ---
 
-## 🏅 Achievements
+## 🏆 Achievements
 
-- Selected for **McKinsey Forward Program (2025)** – global future leadership initiative  
-- Participated in **BRAINWARS by Bain & Company** – solving business case challenges  
-- Earned **Google Data Analytics** & **CU Boulder Business Analytics** certifications  
-- Awarded **Coding Ninjas “Achievers” Badge** for strong problem-solving skills  
-- Held **NCC ‘A’ Certificate** and led a 30+ cadet team in annual training events  
-- Internshala Student Partner: Led university-wide outreach for internship platforms  
-- Finance member at Kraya & Kuber: Analyzed annual reports to identify valuable stocks
+- 🌍 **McKinsey Forward Program (2025)** – Global leadership and career accelerator  
+- 🧠 **Bain & Co. Brainwars** – Tackled business challenges with structured consulting frameworks  
+- 🎓 **Certifications:** Google Data Analytics, CU Boulder Business Analytics  
+- 💻 **Coding Ninjas Achievers Badge** – Recognized for coding excellence  
+- 🪖 **NCC ‘A’ Certificate** – Demonstrated discipline and leadership  
+- 🎯 **Internshala Student Partner** – Led outreach & marketing across campus  
+- 📈 **Kraya & Kuber (Finance Club)** – Analyzed company fundamentals & stock picks
 
 ---
+
+## 📫 Let’s Connect
+
+- 📧 **Email**: arpanmallik173@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/arpanmallik9645](https://linkedin.com/in/arpanmallik9645)  
+- 💻 **GitHub**: [github.com/LegitScarf](https://github.com/LegitScarf)  
+- 👁️‍🗨️ ![Profile Views](https://komarev.com/ghpvc/?username=LegitScarf&style=flat-square)
+
+---
+
+Thanks for visiting! Feel free to explore my projects or get in touch if you're interested in collaborating.
 
 ## 📫 Contact
 
