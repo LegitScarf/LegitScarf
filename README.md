@@ -22,39 +22,39 @@ I'm passionate about turning raw data into impactful insights and intelligent sy
 
 - **✈️ Airline Price Prediction**  
   `XGBoost, AWS SageMaker, Streamlit`  
-  Built a 94.68% accurate ML model for predicting dynamic ticket pricing using real-world airline data.
+  Built a 94.68% accurate ML model for dynamic ticket pricing.
 
 - **🍽️ Swiggy Order Analytics**  
   `MySQL, Excel`  
-  Analyzed 10K+ orders to uncover user loyalty, delivery trends, and optimized operations.
+  Analyzed 10K+ orders to uncover loyalty and delivery insights.
 
-- **🧑‍🤝‍🧑 Customer Segmentation for Marketing**  
+- **🧑‍🤝‍🧑 Customer Segmentation**  
   `K-Means, DBSCAN, Streamlit`  
-  Identified 4 high-value customer clusters to enable smarter marketing strategies.
+  Identified 4 high-value customer segments.
 
 - **💳 Credit Risk Analysis**  
   `Random Forest, Tableau`  
-  Developed a predictive model with 84% accuracy to identify high-risk credit applicants.
+  Developed an 84% accurate model to flag high-risk credit customers.
 
 - **🧠 Brain Tumor Detection**  
   `CNN, TensorFlow, Streamlit`  
-  Achieved 85.8% test accuracy in classifying MRI scans into tumor categories.
+  Classified MRI scans with 85.8% accuracy using CNN.
 
 - **💬 Sentiment Analysis**  
   `LSTM, Python`  
-  Automated customer feedback analysis at scale during my internship, reducing manual efforts by 70%.
+  Automated feedback analysis during internship, reducing tagging by 70%.
 
 ---
 
 ### 🤖 GenAI Projects
 
 - **🗨️ CotBot – AI Chat Assistant**  
-  `OpenAI API, Python, Streamlit`  
-  Built a GPT-powered chatbot with memory and UX features like model switching and animated responses.
+  `OpenAI API, Streamlit`  
+  GPT-powered chatbot with memory, typing effects, and real-time deployment.
 
 - **📄 JobFit AI – Resume Scanner**  
   `GenAI, ATS Logic`  
-  Designed an AI tool that evaluates resumes against job descriptions to improve job matching.
+  AI tool to analyze resume-job fit with ATS scoring logic.
 
 ---
 
@@ -63,8 +63,35 @@ I'm passionate about turning raw data into impactful insights and intelligent sy
 **Languages:** Python, SQL, R, C++, C  
 **Tools:** Tableau, Power BI, Excel, MySQL, BigQuery, AWS, GitHub  
 **ML/DL:** Regression, Classification, Clustering, CNN, LSTM, NLP  
-**Business:** Analytics, Strategy, EDA, A/B Testing, Hypothesis Testing  
+**Business:** Analytics, Strategy, A/B Testing, Hypothesis Testing  
 **Soft Skills:** Leadership, Problem-Solving, Communication
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LegitScarf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegitScarf&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegitScarf&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏷️ Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -72,9 +99,10 @@ I'm passionate about turning raw data into impactful insights and intelligent sy
 
 - 🔗 [LinkedIn](https://linkedin.com/in/arpanmallik9645)  
 - 💻 [GitHub](https://github.com/LegitScarf)  
-- 📧 arpanmallik173@gmail.com
+- 📧 arpanmallik173@gmail.com  
+- 👁️‍🗨️ ![Profile Views](https://komarev.com/ghpvc/?username=LegitScarf&style=flat-square)
 
 ---
 
-_Thanks for stopping by! Feel free to explore my repositories and connect with me._
+_Thanks for visiting my profile!_
 
