@@ -6,7 +6,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# 🌐 About Me
 
 I’m a **Data and Business Analyst** with a deep passion for using data to solve problems and drive strategic decisions. With a strong foundation in **Machine Learning**, **Deep Learning**, and **Generative AI**, I’ve developed intelligent systems, predictive models, and AI tools that make real-world impact.
 
@@ -15,7 +15,11 @@ I’m a **Data and Business Analyst** with a deep passion for using data to solv
 ## 📊 Skill Distribution
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','SQL','ML/DL','EDA & BI','GenAI'],datasets:[{data:[30,25,20,15,10]}]},options:{plugins:{legend:{position:'right'}}}}" width="400" />
+  <img src="https://img.shields.io/badge/Python-30%25-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-25%25-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML%2FDL-20%25-green?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EDA%2FBI-15%25-orange?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GenAI-10%25-purple?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 | Area            | Tools & Platforms                                      |
