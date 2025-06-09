@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hey there! I'm **Arpan Kumar Mallik**
@@ -35,7 +34,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 <img src="https://img.shields.io/badge/SQL-25%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/ML%2FDL-20%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Analytics-15%25-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/GenAI-10%25-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business-10%25-2E8B57?style=for-the-badge&logo=chart.js&logoColor=white"/>
 
 </div>
 
@@ -43,19 +42,21 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 <tr>
 <td align="center" width="50%">
 
-### 💻 **Core Technologies**
+### 💻 **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 </td>
 <td align="center" width="50%">
 
-### 📈 **Analytics & BI**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### 🔧 **Developer Tools**
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 </td>
@@ -63,20 +64,40 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 <tr>
 <td align="center">
 
-### 🤖 **ML/DL & AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 📊 **Analytics & BI**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </td>
 <td align="center">
 
-### ☁️ **Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+### 🧠 **Analytics Skills**
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6B6B?style=for-the-badge&logo=chart.js&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-4ECDC4?style=for-the-badge&logo=plotly&logoColor=white)
+![Statistical Testing](https://img.shields.io/badge/Statistical_Testing-45B7D1?style=for-the-badge&logo=scipy&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-96CEB4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🤖 **Machine Learning**
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF9500?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time_Series-4285F4?style=for-the-badge&logo=plotly&logoColor=white)
+
+</td>
+<td align="center">
+
+### 💼 **Business & Strategy**
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-2E8B57?style=for-the-badge&logo=chart.js&logoColor=white)
+![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-228B22?style=for-the-badge&logo=calculator&logoColor=white)
+![Market Research](https://img.shields.io/badge/Market_Research-32CD32?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Strategy Consulting](https://img.shields.io/badge/Strategy_Consulting-6B8E23?style=for-the-badge&logo=handshake&logoColor=white)
 
 </td>
 </tr>
@@ -112,7 +133,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 <tr>
 <td width="50%" valign="top">
 
-#### ✈️ **FlightFare: Cloud Based Airline Price Predcitor**
+#### ✈️ **FlightFare - Cloud Based Airline Price Predictor**
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -148,7 +169,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 </td>
 <td valign="top">
 
-#### 💳 **Predictive Risk Modelling for Credit Portfolios**
+#### 💳 **Predictive Risk Analytics for Credit Portfolios**
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
@@ -177,7 +198,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 </td>
 <td width="33%" valign="top" align="center">
 
-#### 💬 **Auralis - Multimodeal Chat Assistant**
+#### 💬 **Auralis - Multimodal Chat Assistant**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
