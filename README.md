@@ -112,7 +112,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 <tr>
 <td width="50%" valign="top">
 
-#### ✈️ **Airline Price Prediction**
+#### ✈️ **FlightFare: Cloud Based Airline Price Predcitor**
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -137,7 +137,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 <tr>
 <td valign="top">
 
-#### 👥 **Customer Segmentation**
+#### 👥 **Customer Segmentation for Marketing Analysis**
 ![K-Means](https://img.shields.io/badge/K--Means-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
@@ -148,7 +148,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 </td>
 <td valign="top">
 
-#### 💳 **Credit Risk Analysis**
+#### 💳 **Predictive Risk Modelling for Credit Portfolios**
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
@@ -177,7 +177,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 </td>
 <td width="33%" valign="top" align="center">
 
-#### 💬 **CotBot – GPT Assistant**
+#### 💬 **Auralis - Multimodeal Chat Assistant**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
