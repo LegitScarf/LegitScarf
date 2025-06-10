@@ -127,7 +127,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-### 📊 **Data Analytics Portfolio**
+### 📊 **Data Analytics & Machine Learning Portfolio**
 
 <table>
 <tr>
@@ -181,7 +181,7 @@ I'm a passionate **Data and Business Analyst** who thrives on solving challengin
 </tr>
 </table>
 
-### 🤖 **AI & Machine Learning Showcase**
+### 🤖 **AI & Deep Learning Showcase**
 
 <table>
 <tr>
