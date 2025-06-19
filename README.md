@@ -21,7 +21,7 @@ I'm a passionate **Data and Business Analyst** currently pursuing **B.Tech in Co
 <div align="center">
 
 ### 🎯 **What I'm Currently Working On**
-🤖 **Autonomous Agent Systems** • 🔬 **Fine-tuning AI Models** • 🔄 **Transformers Projects** • 📊 **Business Analytics** • 🌐 **Web Dev Integration**
+🤖 **Autonomous Agent Systems** • 🔬 **Fine-tuning AI Models** • 🔄 **Transformers Projects** • 📊 **Business Analytics** • 
 
 </div>
 
@@ -242,12 +242,10 @@ Data Structures • Algorithms Analysis • Database Management • Artificial I
 - 🤖 **Autonomous Agent Systems** - Building intelligent multi-agent frameworks
 - 🔧 **Fine-tuning AI Models** - Optimizing LLMs for specific use cases  
 - 🔄 **Transformers Projects** - Advanced NLP and computer vision applications
-- 🌐 **Web Development Integration** - Combining AI with modern web frameworks
 - 📊 **Advanced Analytics** - Statistical modeling and business intelligence
 
 ### 🤝 **Looking to Collaborate On**
 - 🚀 **Transformers-based Projects** - NLP, Computer Vision, Multimodal AI
-- 🌐 **Web Development Frameworks** - AI-powered web applications
 - 📈 **Business Analytics Solutions** - Data-driven decision making tools
 
 </div>
