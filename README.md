@@ -1,109 +1,69 @@
 <div align="center">
 
-# **Arpan Kumar Mallik**
-### Data & Business Analyst | LLM Engineer | Strategic Problem Solver
+<!-- ═══════════════════════════════════════════════════════════
+     ANIMATED HEADER BANNER
+═══════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E8B57&center=true&width=800&lines=Building+AI-Powered+Business+Solutions;Transforming+Data+into+Strategic+Insights;Machine+Learning+%26+Deep+Learning+Expert;McKinsey+Forward+Fellow+2025" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0c1228,50:1a1060,100:070b18&text=Arpan%20Kumar%20Mallik&fontSize=46&fontColor=f0f4ff&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Builder&descAlignY=65&descSize=18&descColor=8b98b8&animation=twinkling&stroke=6366f1&strokeWidth=1" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="900">
+<!-- STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-f5c842?style=for-the-badge&labelColor=0c1228&color=f5c842"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-6366f1?style=for-the-badge&labelColor=0c1228&logo=googlemaps&logoColor=6366f1"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Building-NexAlpha-2dd4bf?style=for-the-badge&labelColor=0c1228"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=LegitScarf&style=for-the-badge&color=2E8B57" alt="Profile Views"/>
+<!-- PROFILE VIEWS + SOCIAL -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=legitscarf&label=Profile+Views&color=6366f1&style=for-the-badge&labelColor=0c1228"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/arpanmallik9645">
+    <img src="https://img.shields.io/badge/LinkedIn-arpanmallik9645-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1228"/>
+  </a>
+  &nbsp;
+  <a href="mailto:arpanmallik173@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-arpanmallik173-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1228"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## **Professional Summary**
-
-> *"Leveraging advanced analytics and artificial intelligence to drive strategic business outcomes and operational excellence"*
-
-**Data & Business Analyst** and **AI/ML Engineer** with proven expertise in developing high-impact machine learning solutions and business intelligence systems. Currently pursuing **B.Tech in Computer Science** at KIIT University with **8.08 CGPA**. Recognized as a **McKinsey Forward Fellow 2025** with demonstrated experience in building scalable AI systems that deliver measurable business value.
-
-**Core Competencies:** Advanced Analytics | Machine Learning Engineering | Business Intelligence | Strategic Consulting | AI Model Development
-
----
-
-## **Professional Experience**
-
-### **McKinsey & Company** | Forward Fellow – Future Leadership Program
-**April 2025 – June 2025 | Remote**
-
-- Applied structured problem-solving frameworks including MECE and 80/20 rule to analyze complex business challenges
-- Collaborated on data-driven traffic management case study using advanced consulting methodologies
-- Developed strategic thinking capabilities through McKinsey's global leadership development program
-
-### **Zidio Development** | Data Science & Analytics Intern
-**July 2024 – October 2024 | Remote**
-
-- **Engineered LSTM sentiment analysis model** achieving **98% accuracy** on large-scale customer feedback datasets
-- **Reduced operational overhead by 70%** through automated Python pipelines for feedback processing
-- **Analyzed 10,000+ customer interactions**, delivering actionable insights that influenced retention strategies
-- **Enabled data-driven decision making** by transforming raw sentiment data into strategic business recommendations
-
----
-
-## **Featured Projects**
-
-### **AI & Machine Learning Solutions**
+## `// 01 · About Me`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="60%">
 
-#### **Omega - Multi-Agent Data Analytics Platform**
-![OpenAI](https://img.shields.io/badge/OpenAI_Agents-412991?style=flat-square&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+```yaml
+name        : Arpan Kumar Mallik
+role        : AI Engineer · Data Scientist · Builder
+company     : Capgemini  →  Software Engineer Trainee
+education   : B.Tech CSE · KIIT University · CGPA 8.22
+location    : Kolkata, West Bengal, India
+building    : NexAlpha — AI for Indian Markets
+status      : Open to SDE / MLE / Data roles
+```
 
-**No-code business intelligence solution enabling instant insights through natural language queries**
+<br/>
 
-- **Zero-downtime deployment** with automated chart generation
-- **AI-powered data validation** and contextual analysis
-- **Real-time analytics** with streaming recommendations
-- **Enterprise-ready** Excel/CSV processing capabilities
+I'm a **final-year CS student at KIIT**, currently working as a **Software Engineer Trainee at Capgemini**. My work lives at the intersection of **Agentic AI**, data science, and production-grade systems.
 
-</td>
-<td width="50%" valign="top">
+What drives me is one conviction — **intelligent systems should do the heavy lifting**. Whether it's multi-agent trading intelligence or turning raw enterprise data into structured insights, I build for impact and scale.
 
-#### **FlightFare AI - Predictive Pricing System**
-![AWS](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-
-**Cloud-deployed ML pipeline for dynamic airline price prediction**
-
-- **94.68% prediction accuracy** on real-world pricing data
-- **14 critical variables identified** through statistical analysis
-- **AWS SageMaker deployment** ensuring 24/7 availability
-- **Low-latency inference** for production-scale applications
+> *"Not demos — production systems that solve real problems at scale."*
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td valign="top" width="40%" align="center">
 
-#### **NeuroScan - Medical AI Diagnostic Tool**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/Deep_Learning-FF9500?style=flat-square&logo=tensorflow&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=legitscarf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1228&title_color=f5c842&icon_color=6366f1&text_color=8b98b8&ring_color=6366f1&border_radius=12" width="100%"/>
 
-**CNN-based brain tumor detection system for medical diagnostics**
+<br/><br/>
 
-- **85.8% diagnostic accuracy** on clinical MRI datasets
-- **6,000+ medical images processed** with advanced augmentation
-- **Hyperparameter optimization** for enhanced performance
-- **Production-ready deployment** via Streamlit interface
-
-</td>
-<td valign="top">
-
-#### **FauxFoundry - Enterprise Data Generation**
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Multi-agent GenAI system for synthetic test data creation**
-
-- **Custom schema generation** with enterprise-grade templates
-- **Prompt engineering optimization** for content variability
-- **Scalable data pipelines** supporting multiple export formats
-- **Real-world simulation** for comprehensive testing scenarios
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=legitscarf&theme=tokyonight&hide_border=true&background=0c1228&stroke=6366f1&ring=f5c842&fire=f5c842&currStreakLabel=f5c842&sideLabels=8b98b8&dates=4a5578&border_radius=12" width="100%"/>
 
 </td>
 </tr>
@@ -111,168 +71,260 @@
 
 ---
 
-## **Technical Expertise**
+## `// 02 · Live Products · NexAlpha`
 
 <div align="center">
 
-### **Core Technologies**
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Business_Analytics-Expert-2E8B57?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud_Computing-Proficient-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="25%">
 
-**Programming & Database**
-- Python, R, SQL
-- C++, C
-- MySQL, BigQuery
-- Statistical Computing
+<td align="center" width="50%">
 
-</td>
-<td align="center" width="25%">
+### 🤖 OptiTrade
 
-**AI/ML Frameworks**
-- TensorFlow, Keras
-- Scikit-learn, XGBoost
-- Neural Networks
-- Computer Vision, NLP
+![Live](https://img.shields.io/badge/Status-LIVE%20BETA-2dd4bf?style=flat-square&labelColor=0c1228)
+![AWS](https://img.shields.io/badge/Infra-AWS%20ap--south--1-f5c842?style=flat-square&labelColor=0c1228&logo=amazonaws&logoColor=f5c842)
 
-</td>
-<td align="center" width="25%">
+**Multi-Agent F&O Trading System**
 
-**Analytics & BI Tools**
-- Tableau, Power BI
-- Advanced Excel
-- Statistical Testing
-- Predictive Modeling
+Specialized AI agents collaborate in real time — options chain scanning, OI monitoring, IV analysis, and risk-calibrated signal synthesis for Nifty50.
+
+`CrewAI` · `Multi-Agent` · `AWS EC2` · `Jenkins` · `Streamlit`
+
+[![Visit](https://img.shields.io/badge/Visit%20OptiTrade-→-6366f1?style=for-the-badge&labelColor=0c1228)](http://optitrade-alb-1721764571.ap-south-1.elb.amazonaws.com/)
 
 </td>
-<td align="center" width="25%">
 
-**Cloud & Deployment**
-- AWS SageMaker
-- Streamlit, Gradio
-- HuggingFace Hub
-- MLOps Pipelines
+<td align="center" width="50%">
+
+### 🔬 BharatAlpha
+
+![Live](https://img.shields.io/badge/Status-LIVE%20BETA-2dd4bf?style=flat-square&labelColor=0c1228)
+![AWS](https://img.shields.io/badge/Infra-AWS%20ap--south--1-f5c842?style=flat-square&labelColor=0c1228&logo=amazonaws&logoColor=f5c842)
+
+**AI Equity Research Platform**
+
+Institutional-grade equity research for the Indian market — fundamental analysis, sector intelligence, and company deep-dives at scale.
+
+`LLMs` · `RAG` · `AWS` · `NSE Coverage` · `Multi-Agent`
+
+[![Visit](https://img.shields.io/badge/Visit%20BharatAlpha-→-6366f1?style=for-the-badge&labelColor=0c1228)](http://bharatalpha-alb-97091621.ap-south-1.elb.amazonaws.com/)
 
 </td>
+
 </tr>
 </table>
 
-### **Specialized Skills**
-
-**Advanced Analytics:** Predictive Analytics, Prescriptive Analytics, Statistical Hypothesis Testing, A/B Testing
-**Generative AI:** Prompt Engineering, RAG Systems, LangChain, Model Fine-tuning, Multi-Agent Systems
-**Business Intelligence:** Market Research, Strategic Analysis, Data-Driven Decision Making, KPI Development
-
----
-
-## **Education & Certifications**
-
-### **Kalinga Institute of Industrial Technology**
-**Bachelor of Technology in Computer Science and Engineering**  
-**September 2022 – Present | Bhubaneswar, Odisha**  
-**CGPA: 8.08/10**
-
-**Relevant Coursework:** Advanced Algorithms, Database Systems, Artificial Intelligence, Machine Learning, Software Engineering, Engineering Economics
-
-### **Professional Certifications**
-- **McKinsey Forward Program (2025)** - Global Leadership Development
-- **Google Data Analytics Professional Certificate**
-- **University of Colorado Boulder Business Analytics Specialization**
-
----
-
-## **Recognition & Leadership**
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**Professional Recognition**
-- **McKinsey Forward Fellow 2025** - Selected for elite leadership program
-- **4x Coding Ninjas "Achievers" Badge** - Exceptional problem-solving proficiency
-- **Google Data Analytics Certified** - Professional certification
-- **Bain & Company BRAINWARS Participant** - Business case competition
-
-</td>
-<td align="center" width="50%">
-
-**Leadership Experience**
-- **NCC 'A' Certificate** - Leadership through discipline and coordination
-- **Internshala Student Partner** - Marketing campaign leadership
-- **Finance Team Member** - Kraya & Kuber equity research society
-- **Team Leadership** - Led 30+ cadets in organizational events
-
-</td>
-</tr>
-</table>
-
----
-
-## **Current Focus Areas**
-
-**Research & Development:**
-- **Autonomous AI Agent Systems** - Building intelligent multi-agent frameworks for business automation
-- **Advanced Model Fine-tuning** - Optimizing large language models for domain-specific applications
-- **Business Intelligence Innovation** - Developing next-generation analytics platforms
-
-**Collaboration Interests:**
-- Enterprise AI solutions and business intelligence platforms
-- Advanced transformer architectures for specialized domains
-- Strategic consulting projects involving data-driven decision making
-
----
-
-## **GitHub Analytics**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LegitScarf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LegitScarf&theme=dark&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegitScarf&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B57" width="96%"/>
+[![NexAlpha Site](https://img.shields.io/badge/🌐%20NexAlpha%20Website-legitscarf.github.io%2Fnexalpha.github.io-f5c842?style=for-the-badge&labelColor=0c1228)](https://legitscarf.github.io/nexalpha.github.io/)
 
 </div>
 
 ---
 
-## **Professional Contact**
+## `// 03 · Tech Stack`
 
 <div align="center">
 
+**✦ Agentic AI & GenAI**
+
+![CrewAI](https://img.shields.io/badge/CrewAI-0c1228?style=for-the-badge&logo=robot-framework&logoColor=f5c842)
+![LangChain](https://img.shields.io/badge/LangChain-0c1228?style=for-the-badge&logo=chainlink&logoColor=6366f1)
+![LangGraph](https://img.shields.io/badge/LangGraph-0c1228?style=for-the-badge&logo=graphql&logoColor=a855f7)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-0c1228?style=for-the-badge&logo=openai&logoColor=2dd4bf)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0c1228?style=for-the-badge&logo=huggingface&logoColor=f5c842)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-0c1228?style=for-the-badge&logoColor=6366f1)
+
+<br/>
+
+**✦ Machine Learning & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0c1228?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
+![Keras](https://img.shields.io/badge/Keras-0c1228?style=for-the-badge&logo=keras&logoColor=d00000)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0c1228?style=for-the-badge&logo=scikitlearn&logoColor=f5c842)
+![XGBoost](https://img.shields.io/badge/XGBoost-0c1228?style=for-the-badge&logoColor=2dd4bf)
+![Pandas](https://img.shields.io/badge/Pandas-0c1228?style=for-the-badge&logo=pandas&logoColor=6366f1)
+![NumPy](https://img.shields.io/badge/NumPy-0c1228?style=for-the-badge&logo=numpy&logoColor=a855f7)
+
+<br/>
+
+**✦ Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-0c1228?style=for-the-badge&logo=amazonaws&logoColor=f5c842)
+![Docker](https://img.shields.io/badge/Docker-0c1228?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Jenkins](https://img.shields.io/badge/Jenkins-0c1228?style=for-the-badge&logo=jenkins&logoColor=d33833)
+![GCP](https://img.shields.io/badge/GCP%20BigQuery-0c1228?style=for-the-badge&logo=googlecloud&logoColor=4285f4)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0c1228?style=for-the-badge&logo=githubactions&logoColor=6366f1)
+
+<br/>
+
+**✦ Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-0c1228?style=for-the-badge&logo=python&logoColor=3776ab)
+![SQL](https://img.shields.io/badge/SQL-0c1228?style=for-the-badge&logo=mysql&logoColor=f5c842)
+![R](https://img.shields.io/badge/R-0c1228?style=for-the-badge&logo=r&logoColor=276dc3)
+![C++](https://img.shields.io/badge/C++-0c1228?style=for-the-badge&logo=cplusplus&logoColor=a855f7)
+![Streamlit](https://img.shields.io/badge/Streamlit-0c1228?style=for-the-badge&logo=streamlit&logoColor=ff4b4b)
+![Power BI](https://img.shields.io/badge/Power%20BI-0c1228?style=for-the-badge&logo=powerbi&logoColor=f5c842)
+
+</div>
+
+---
+
+## `// 04 · Experience`
+
+```
+◉  Dec 2025 – Present   │  Capgemini                  │  Software Engineer Trainee
+   ─────────────────────┼──────────────────────────────┼────────────────────────────────────────
+                        │  CI/CD · Docker · AWS        │  Jenkins pipelines, containerised
+                        │  EC2 · RDS · Power BI        │  deployments, KPI dashboards
+
+◉  Jun – Jul 2025       │  CMB Greens LLP              │  GenAI Developer Intern
+   ─────────────────────┼──────────────────────────────┼────────────────────────────────────────
+                        │  RAG · LLMs · Streamlit      │  RAG pipelines, –15% API costs,
+                        │  Prompt Engineering          │  Gradio client demos
+
+◉  Apr – Jun 2025       │  McKinsey & Company          │  Forward Fellow
+   ─────────────────────┼──────────────────────────────┼────────────────────────────────────────
+                        │  MECE · 80/20 · Strategy     │  Consulting frameworks, data-driven
+                        │  Structured Analysis         │  traffic management case study
+
+◉  Jul – Oct 2024       │  Zidio Development           │  Data Science & Analytics Intern
+   ─────────────────────┼──────────────────────────────┼────────────────────────────────────────
+                        │  LSTM · NLP · Python         │  98% accuracy sentiment model,
+                        │  Sentiment Analysis          │  –70% manual tagging, 10K+ records
+```
+
+---
+
+## `// 05 · Featured Projects`
+
+<div align="center">
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+**🤖 OptiTrade** &nbsp; ![Live](https://img.shields.io/badge/LIVE-2dd4bf?style=flat-square&labelColor=0c1228)
+
+Multi-agent Nifty50 F&O trading system. 5+ specialised agents for options chain analysis, OI shifts, and real-time signal synthesis on full AWS production infrastructure.
+
+**Stack:** `CrewAI` `AWS` `Jenkins` `Streamlit` `EC2`
+
+</td>
+
+<td valign="top" width="50%">
+
+**📊 Omega** &nbsp; ![Built](https://img.shields.io/badge/Built-6366f1?style=flat-square&labelColor=0c1228)
+
+No-code multi-agent EDA platform. Upload any CSV/Excel → ask in natural language → instant charts + streaming AI insights. Zero configuration required.
+
+**Stack:** `OpenAI Agents SDK` `Multi-Agent` `Streamlit`
+
+</td>
+
+</tr>
+<tr>
+
+<td valign="top" width="50%">
+
+**✈️ FlightFare AI** &nbsp; ![Built](https://img.shields.io/badge/Built-a855f7?style=flat-square&labelColor=0c1228)
+
+Airline price prediction ML pipeline with **94.68% accuracy**. XGBoost with hypothesis-tested feature selection deployed on AWS SageMaker for 24/7 inference.
+
+**Stack:** `XGBoost` `SageMaker` `Python` `Streamlit`
+
+</td>
+
+<td valign="top" width="50%">
+
+**⚙️ AutoDev Suite** &nbsp; ![Built](https://img.shields.io/badge/Built-f5c842?style=flat-square&labelColor=0c1228)
+
+Agentic SDLC simulator where specialised agents autonomously handle backend, frontend, and database tasks — from requirements to working application.
+
+**Stack:** `CrewAI` `OpenAI` `SDLC Automation`
+
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+## `// 06 · GitHub Activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=legitscarf&bg_color=070b18&color=8b98b8&line=6366f1&point=f5c842&area=true&area_color=6366f1&hide_border=true&radius=8" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legitscarf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1228&title_color=f5c842&text_color=8b98b8&border_radius=12&langs_count=8" width="46%"/>
+
+</div>
+
+---
+
+## `// 07 · Achievements & Certifications`
+
+| &nbsp; | Achievement | Details |
+|:------:|:------------|:--------|
+| 🏆 | **Google Data Analytics Certificate** | Data cleaning, visualisation, and real-world analysis |
+| ☁️ | **Oracle Cloud Infrastructure 2025 — GenAI Professional** | LLM deployment, RAG architectures, enterprise AI |
+| ⚡ | **4× Achievers Badge — Coding Ninjas** | Four consecutive badges for exceptional problem-solving |
+| 🎖️ | **NCC 'A' Certificate · Corps Leader** | Led 30+ cadets · Awarded for discipline and leadership |
+| 🔬 | **BRAINWARS — Bain & Company** | Competitive case challenge with structured analytics |
+| 📈 | **Finance Member — Kraya & Kuber Investment Club** | Equity analysis experience → origin story of NexAlpha |
+
+---
+
+## `// 08 · What I'm Building Toward`
+
+```python
+current_focus = {
+    "role"    : "SWE Trainee @ Capgemini",
+    "venture" : "NexAlpha — AI Trading Platform for India",
+    "products": ["OptiTrade (F&O Multi-Agent)", "BharatAlpha (Equity Research AI)"],
+    "learning": ["LLM Infrastructure at Scale", "Agentic Reasoning Frameworks",
+                 "Advanced MLOps", "Systems Design"],
+    "seeking" : ["SDE / MLE / Data Science roles",
+                 "Agentic AI projects", "Startup opportunities"],
+}
+
+vision = """
+Agentic AI is the next layer of the software stack.
+Multi-agent architectures will power the next generation of
+intelligent applications. I want to build those systems —
+not demos, production systems that solve real problems at scale.
+"""
+```
+
+---
+
+## `// 09 · Let's Connect`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/arpanmallik9645">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1228"/>
+</a>
+&nbsp;
 <a href="mailto:arpanmallik173@gmail.com">
-<img src="https://img.shields.io/badge/Email-arpanmallik173@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1228"/>
+</a>
+&nbsp;
+<a href="https://legitscarf.github.io/nexalpha.github.io/">
+  <img src="https://img.shields.io/badge/NexAlpha-Visit%20Site-f5c842?style=for-the-badge&labelColor=0c1228"/>
 </a>
 
-<a href="https://www.linkedin.com/in/arpanmallik9645">
-<img src="https://img.shields.io/badge/LinkedIn-ArpanMallik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
-</a>
+<br/><br/>
 
-<a href="https://github.com/LegitScarf">
-<img src="https://img.shields.io/badge/GitHub-LegitScarf-181717?style=for-the-badge&logo=github&logoColor=white" height="35">
-</a>
+> 💬 **Open to:** SDE · MLE · Data Science roles &nbsp;|&nbsp; Agentic AI projects &nbsp;|&nbsp; Startup collaborations
 
-<br><br>
+<br/>
 
-**Areas of Expertise:** Artificial Intelligence | Machine Learning Engineering | Business Analytics | Strategic Consulting | Data Science
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b18,50:0c1228,100:111827&height=100&section=footer&text=Building%20Intelligent%20Systems&fontSize=16&fontColor=4a5578&fontAlignY=65&animation=twinkling"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-### **Ready to Drive Innovation Through Data Science?**
-
-*Open to collaborating on cutting-edge AI projects and strategic business analytics initiatives.*  
-*Let's build solutions that create measurable business impact.*
+*Kolkata, West Bengal · India &nbsp;·&nbsp; arpanmallik173@gmail.com &nbsp;·&nbsp; © 2025 Arpan Kumar Mallik*
 
 </div>
